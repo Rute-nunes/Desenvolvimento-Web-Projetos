@@ -7,7 +7,7 @@
 ## Professor
 * Thomaz Maia de Almeida.
 
-##F erramenta Utilizada Para Criação dos Projetos
+## Ferramenta Utilizada Para Criação dos Projetos
 * *VS Code*.
 
 ## Projetos Referentes a Diciplina
