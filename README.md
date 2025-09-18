@@ -17,4 +17,4 @@
 * <https://rute-nunes.github.io/Projeto-4/>
 * <https://rute-nunes.github.io/Projeto-5/>
 * <https://rute-nunes.github.io/Projeto-6/>
-* <>
+* <https://rute-nunes.github.io/Projeto-7/>
