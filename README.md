@@ -12,6 +12,7 @@
 
 ## Projetos Referentes a Diciplina
 * <https://rute-nunes.github.io/Projeto-1/>
-* 
+* <https://rute-nunes.github.io/Projeto-2/>
 * <https://rute-nunes.github.io/Projeto-3/>
-*
+* <https://rute-nunes.github.io/Projeto-4/>
+* <https://rute-nunes.github.io/Projeto-5/>
